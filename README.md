@@ -1,3 +1,3 @@
 ### Hello world 👋
-- 🔭 I’m currently focusing on React and Node.js 🎧
+- 🔭 Focused and dedicated to the JavaScript environment 🎧
 - Portfolio: https://devcarlos.io/
