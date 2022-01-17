@@ -1,2 +1,2 @@
 ### Hello world 👋
-- 🔭 Focused in the JavaScript ecosytem 🎧
+- 🔭 Primarly focused in the JavaScript ecosytem 🎧
