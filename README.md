@@ -1,2 +1,2 @@
-### Hello world 👋
-- 🔭 Primarly focused in the JavaScript ecosytem 🎧
+### Hello nerds 👋
+Dev from Houston 🚀 primarily focused on building and breaking things in the JavaScript ecosystem 💻
